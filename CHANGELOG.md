@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-04-23)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`b4767e5`](https://github.com/stdlib-js/stdlib/commit/b4767e55d6280ebd6248e3f4565e1789df5dcf00) - set default task
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`b4767e5`](https://github.com/stdlib-js/stdlib/commit/b4767e55d6280ebd6248e3f4565e1789df5dcf00) - **fix:** set default task _(by Athan Reines)_
 -   [`2d70fb0`](https://github.com/stdlib-js/stdlib/commit/2d70fb0472427a0870fd4ce7bb8b30993cf2f939) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`fc4a92a`](https://github.com/stdlib-js/stdlib/commit/fc4a92a4a2356e4de3026fcfcfbd6433121851a0) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`86e5846`](https://github.com/stdlib-js/stdlib/commit/86e58462513d0ee81c45611b190a7d75fbc003c0) - **refactor:** update `stats/base/snanmean` native addon from C++ to C [(#4609)](https://github.com/stdlib-js/stdlib/pull/4609) _(by Vivek Maurya)_
