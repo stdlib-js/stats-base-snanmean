@@ -222,7 +222,7 @@ console.log( v );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/stats-strided/dnanmean`][@stdlib/stats/strided/dnanmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a double-precision floating-point strided array, ignoring NaN values.</span>
--   <span class="package-name">[`@stdlib/stats-base/smean`][@stdlib/stats/base/smean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/smean`][@stdlib/stats/strided/smean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a single-precision floating-point strided array.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanmean`][@stdlib/stats/base/nanmean]</span><span class="delimiter">: </span><span class="description">calculate the arithmetic mean of a strided array, ignoring NaN values.</span>
 
 </section>
@@ -311,7 +311,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/dnanmean]: https://github.com/stdlib-js/stats-strided-dnanmean
 
-[@stdlib/stats/base/smean]: https://github.com/stdlib-js/stats-base-smean
+[@stdlib/stats/strided/smean]: https://github.com/stdlib-js/stats-strided-smean
 
 [@stdlib/stats/base/nanmean]: https://github.com/stdlib-js/stats-base-nanmean
 
