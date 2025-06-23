@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-08)
+## Unreleased (2025-06-23)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`fe87ef3`](https://github.com/stdlib-js/stdlib/commit/fe87ef3f1d320867b195765cd1aec7800270e33e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`bcd0411`](https://github.com/stdlib-js/stdlib/commit/bcd04112308e7d7b42de2bc04599d490e429ebc8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`b4767e5`](https://github.com/stdlib-js/stdlib/commit/b4767e55d6280ebd6248e3f4565e1789df5dcf00) - **fix:** set default task _(by Athan Reines)_
