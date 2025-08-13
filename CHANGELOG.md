@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-23)
+## Unreleased (2025-08-13)
+
+<section class="features">
+
+### Features
+
+-   [`03fa864`](https://github.com/stdlib-js/stdlib/commit/03fa864694becb2d5bf705033dd106c5fdc2566b) - add C ndarray interface and refactor implementation for `stats/base/snanmean` [(#7705)](https://github.com/stdlib-js/stdlib/pull/7705)
+
+</section>
+
+<!-- /.features -->
 
 <section class="bug-fixes">
 
@@ -22,6 +32,7 @@
 
 <details>
 
+-   [`03fa864`](https://github.com/stdlib-js/stdlib/commit/03fa864694becb2d5bf705033dd106c5fdc2566b) - **feat:** add C ndarray interface and refactor implementation for `stats/base/snanmean` [(#7705)](https://github.com/stdlib-js/stdlib/pull/7705) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`fe87ef3`](https://github.com/stdlib-js/stdlib/commit/fe87ef3f1d320867b195765cd1aec7800270e33e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`bcd0411`](https://github.com/stdlib-js/stdlib/commit/bcd04112308e7d7b42de2bc04599d490e429ebc8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
